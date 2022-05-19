@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
+* p {
+    color: #231F20;
+
+}
+
+header {
+    height: 165px;
+    background-color: red;
+    padding-top: 5px;
+}
+
+.container {
+    margin-left: 209px;
+}
+
+.heander-div-first {
+    display: flex;
+
+}
+
+.heander-div-first-item-1 {
+    display: flex;
+}
+
+.header-p-1 {
+    margin-left: 14px;
+}
+
+.razmeri-1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 39px;
+}
+
+.razmeri-2 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 10.3px;
+    text-transform: uppercase;
+}
+
+.razmeri-3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+}
+.span-1{
+    color: #FF2E65;
+}
